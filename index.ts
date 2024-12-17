@@ -1,1 +1,3 @@
-export function fizzBuzz(array: number[]) {}
+export function fizzBuzz(array: number[]): number[] {
+  return array;
+}
